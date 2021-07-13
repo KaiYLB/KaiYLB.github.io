@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KaiYLB.github.io</id>
-    <title>Kai</title>
-    <updated>2021-07-13T03:27:03.928Z</updated>
+    <title>Hello Gridea | KAI</title>
+    <updated>2021-07-13T08:30:21.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://KaiYLB.github.io"/>
     <link rel="self" href="https://KaiYLB.github.io/atom.xml"/>
     <subtitle>可以说是非常芜湖了</subtitle>
     <logo>https://KaiYLB.github.io/images/avatar.png</logo>
     <icon>https://KaiYLB.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Kai</rights>
+    <rights>All rights reserved 2021, Hello Gridea | KAI</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://KaiYLB.github.io/post/hello-gridea/</id>
